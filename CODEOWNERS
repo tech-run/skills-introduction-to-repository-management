@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tech-run
+/src/backend/database.py      @tech-run
+/src/backend/routers/auth.py  @tech-run
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tech-run
